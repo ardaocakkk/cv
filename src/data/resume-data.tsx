@@ -32,7 +32,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://ardaocakkk.github.io/",
   contact: {
     email: "ardaocak54@gmai.com",
-    tel: " ",
+    tel: "+90 553 357 6169",
     social: [
       {
         name: "GitHub",
