@@ -77,8 +77,8 @@ export const RESUME_DATA = {
       badges: ["Internship"],
       title: "Software Developer Intern",
       logo: ParabolLogo,
-      start: "2024",
-      end: null,
+      start: "17-06-2024",
+      end: "16-08-2024",
       description:
         "I was responsible for developing and testing the Biz mobile application of T.C. Gençlik ve Spor Bakanlığı. ",
     },
