@@ -80,13 +80,14 @@ export const RESUME_DATA = {
       start: "2024",
       end: null,
       description:
-        "Developed web applications, worked on the company's projects and learnt new technologies.",
+        "I was responsible for developing and testing the Biz mobile application of T.C. Gençlik ve Spor Bakanlığı. ",
     },
   ],
   skills: [
     "JavaScript",
     "React/Next.js",
     "Python",
+    "React-Native",
     "Flask",
     "FastAPI",
     "Java",
