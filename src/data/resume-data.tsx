@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Passionate computer engineering student from Ankara. Enthusiast about web development & embedded systems.",
   summary:
-    "As a Computer Engineering student, I am passionate about web development and embedded systems. I have experience in developing web applications with React and Next.js. I am also interested in backend development with Java and Spring Boot. I also have some experience with FPGA VHDL programming. I am looking for opportunities to learn new technologies and improve my skills.",
+    "As a Junior (third year) Computer Engineering student, I am passionate about web development and embedded systems. I have experience in developing web applications with React and Next.js. I am also interested in backend development with Java and Spring Boot. I also have some experience with FPGA VHDL programming. I am looking for opportunities to learn new technologies and improve my skills.",
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQF5AZtXzPlemw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719085989786?e=1732752000&v=beta&t=3UGl9YOYJQCIfnRAkprW49Y_1OuCfJPyTl2r1nN7HFI",
   personalWebsiteUrl: "https://ardaocakkk.github.io/",
   contact: {
