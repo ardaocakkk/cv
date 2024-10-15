@@ -185,11 +185,11 @@ export const RESUME_DATA = {
       title: "Space Mission Analysis",
       techStack: ["Side Project", "Python", "Pandas", "Matplotlib", "NumPy", "Seaborn"],
       description:
-        "Generates beautiful wallpapers using random shapes and gradients",
+        "Analysing and Visualizing The Space Race on Cold War Time",
       logo: BarepapersLogo,
       link: {
         label: "https://github.com/ardaocakkk/Space_Missions_Analysis",
-        href: "Analyse and Visualize The Space Race on Cold War Time",
+        href: "https://github.com/ardaocakkk/Space_Missions_Analysis",
       },
     },
   ],
