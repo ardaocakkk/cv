@@ -69,7 +69,7 @@ export const RESUME_DATA = {
       start: "2024",
       end: null,
       description:
-        "Participated in open innovation projects, researched new technologies and learnt project managment.",
+        "Participating in open innovation projects, researching new technologies and learning project managment.",
     },
     {
       company: "Kolaysoft",
